@@ -1,0 +1,98 @@
+[
+  {
+    "id": "trailblazer-pack",
+    "name": "Trailblazer Pack",
+    "category": "Travel",
+    "price": 128,
+    "rating": 4.8,
+    "featured": true,
+    "inventory": 18,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "description": "Weather-ready backpack with modular storage, padded laptop sleeve, and recycled shell fabric.",
+    "details": ["28L capacity", "Water-resistant YKK zippers", "Fits 16-inch laptop"]
+  },
+  {
+    "id": "mesa-lamp",
+    "name": "Mesa Table Lamp",
+    "category": "Home",
+    "price": 86,
+    "rating": 4.6,
+    "featured": true,
+    "inventory": 24,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+    "description": "Minimal ceramic lamp with warm ambient glow and linen shade for bedside or desk setups.",
+    "details": ["Ceramic base", "Warm 2700K bulb included", "Textured linen shade"]
+  },
+  {
+    "id": "aero-bottle",
+    "name": "Aero Bottle",
+    "category": "Wellness",
+    "price": 34,
+    "rating": 4.9,
+    "featured": true,
+    "inventory": 40,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=1200&q=80",
+    "description": "Double-wall insulated steel bottle that keeps drinks cold for 24 hours and hot for 12.",
+    "details": ["750ml", "Leakproof lid", "Powder-coated finish"]
+  },
+  {
+    "id": "summit-sneakers",
+    "name": "Summit Sneakers",
+    "category": "Apparel",
+    "price": 112,
+    "rating": 4.7,
+    "featured": true,
+    "inventory": 13,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+    "description": "Lightweight everyday sneakers with responsive cushioning and breathable knit upper.",
+    "details": ["Unisex sizing", "Recycled foam midsole", "Machine washable"]
+  },
+  {
+    "id": "north-mug-set",
+    "name": "North Mug Set",
+    "category": "Home",
+    "price": 48,
+    "rating": 4.4,
+    "featured": false,
+    "inventory": 26,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?auto=format&fit=crop&w=1200&q=80",
+    "description": "Set of four stoneware mugs with matte glaze and stackable silhouettes.",
+    "details": ["Set of 4", "Dishwasher safe", "Hand-finished glaze"]
+  },
+  {
+    "id": "field-journal",
+    "name": "Field Journal",
+    "category": "Office",
+    "price": 22,
+    "rating": 4.5,
+    "featured": false,
+    "inventory": 52,
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=80",
+    "description": "Hardcover journal with lay-flat binding, dot grid pages, and archival paper.",
+    "details": ["192 pages", "Dot grid layout", "Recycled paper stock"]
+  },
+  {
+    "id": "solstice-throw",
+    "name": "Solstice Throw",
+    "category": "Home",
+    "price": 72,
+    "rating": 4.3,
+    "featured": false,
+    "inventory": 17,
+    "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&w=1200&q=80",
+    "description": "Soft woven throw blanket with tonal patterning and fringe edges.",
+    "details": ["Cotton blend", "50 x 70 inches", "Machine washable"]
+  },
+  {
+    "id": "pulse-headphones",
+    "name": "Pulse Headphones",
+    "category": "Tech",
+    "price": 164,
+    "rating": 4.8,
+    "featured": false,
+    "inventory": 9,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+    "description": "Wireless over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "details": ["USB-C charging", "Bluetooth 5.3", "Fast-pair enabled"]
+  }
+]
