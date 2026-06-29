@@ -9,7 +9,7 @@ export function CheckoutForm() {
   const { lines, subtotal, clearCart } = useCart();
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const shipping = subtotal > 100 ? 0 : 12;
+  const shipping = lines.length === 0 || subtotal > 100 ? 0 : 12;
   const tax = subtotal * 0.08;
   const total = subtotal + shipping + tax;
 
